@@ -9,9 +9,9 @@
           - gtest-org/gtest2
       github.com:
         config-projects:
-          - pabelanger/windmill-config
+          - garyianperkins/windmill-config
         untrusted-projects:
-          - pabelanger/windmill-jobs
+          - garyianperkins/windmill-jobs
       git.zuul-ci.org:
         untrusted-projects:
           - zuul-jobs
